@@ -45,3 +45,7 @@ If you continue to experience issues, consider these troubleshooting steps:
 - **Restart VS Code**: Sometimes, VS Code needs to be restarted for changes in the environment or installed packages to be recognized.
 
 Follow these steps to ensure `sympy` is correctly set up in your VS Code environment, allowing for successful code execution.
+
+## Copyright
+
+© 2024 Fernando Latorre López
